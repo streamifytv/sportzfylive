@@ -1,0 +1,19 @@
+{
+  "name": "Sportzfy TV",
+  "version": "1.0.0",
+  "tagline": "Worldwide sports streaming for Android & TV",
+  "description": "A fast, modern sports streaming companion built for Android phones, tablets and TV screens.",
+  "logo": "assets/logo.png",
+  "mainDownload": "https://example.com/sportzfy-tv.apk",
+  "mirrors": [
+    { "name": "Mirror 1", "url": "https://example.com/mirror-1" },
+    { "name": "Mirror 2", "url": "https://example.com/mirror-2" },
+    { "name": "Mirror 3", "url": "https://example.com/mirror-3" }
+  ],
+  "screenshots": [
+    { "src": "assets/d576f892-41d6-43cd-b3cd-f93b9adc404c-screen.png", "label": "Live events home" },
+    { "src": "assets/e8dc4806-6da2-4c5c-9c59-3909c50868c4-screen.png", "label": "Categories" },
+    { "src": "assets/a3313e29-0b85-46a4-98ac-3b4b4707f714-screen.png", "label": "Sports categories" },
+    { "src": "assets/8a48a50c-8000-47e8-8216-bdcb5e8bd99f-screen.png", "label": "Channel browser" }
+  ]
+}
