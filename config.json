@@ -11,10 +11,10 @@
     { "name": "Mirror 3", "url": "https://example.com/mirror-3" }
   ],
   "screenshots": [
-    { "src": "assets/", "label": "Splash Screen" },
-    { "src": "assets/", "label": "Live Events" },
-    { "src": "assets/", "label": "Live Player View" },
-    { "src": "assets/", "label": "Highlights" },
-    { "src": "assets/", "label": "Categories" }
+    { "src": "assets/sportzfy-1.webp", "label": "Splash Screen" },
+    { "src": "assets/sportzfy-2.webp", "label": "Live Events" },
+    { "src": "assets/sportzfy-3.webp", "label": "Live Player View" },
+    { "src": "assets/sportzfy-4.webp", "label": "Highlights" },
+    { "src": "assets/sportzfy-5.webp", "label": "Categories" }
   ]
 }
